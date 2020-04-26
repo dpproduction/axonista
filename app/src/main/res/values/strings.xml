@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestAppAxonista</string>
+    <string name="calc_result">Calc result</string>
+    <string name="send_to">Send to</string>
+</resources>

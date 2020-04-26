@@ -1,0 +1,2 @@
+rootProject.name='TestAppAxonista'
+include ':app'
